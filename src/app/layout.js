@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
       <body>
         <div className="bg-grid" aria-hidden="true" />
         {children}
-        <footer className="footer">CHARUSAT · Semester Results Lookup</footer>
+        <footer className="footer">CHARUSAT · ID Lookup</footer>
       </body>
     </html>
   );
